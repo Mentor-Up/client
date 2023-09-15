@@ -47,6 +47,7 @@ To get started with MentorUp, follow these simple steps:
 3. npm run dev
 4. Go to http://localhost:3000/ to start our application
 5. Go to https://mentorup-81w4.onrender.com for live demo
+   - Admin role: admin@mail.com Password: admin1
 
 ## Screenshots
 
